@@ -1,0 +1,5 @@
+/home/arthur/Área de trabalho/Arthur/OpenPDF/build/CMakeFiles/openpdf.dir
+/home/arthur/Área de trabalho/Arthur/OpenPDF/build/CMakeFiles/edit_cache.dir
+/home/arthur/Área de trabalho/Arthur/OpenPDF/build/CMakeFiles/rebuild_cache.dir
+/home/arthur/Área de trabalho/Arthur/OpenPDF/build/CMakeFiles/openpdf_autogen_timestamp_deps.dir
+/home/arthur/Área de trabalho/Arthur/OpenPDF/build/CMakeFiles/openpdf_autogen.dir
