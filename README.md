@@ -28,3 +28,5 @@ make -j$(nproc)
 > O OpenPDF é feito especialmente para Linux, pode ser preciso modificações para compilar para o Windows ou Mac.
 
 **Haverá futuras atualizações para esse leitor**, espero que goste!
+
+> O OpenMusic está disponível sobre a licença Apache 2.0.
